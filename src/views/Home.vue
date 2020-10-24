@@ -1,7 +1,6 @@
 <template>
     <div>
         <Topnav></Topnav>
-        
         <div class="banner">
             <h1>轱辘UI</h1>
             <h2>一个厉害的UI框架</h2>
